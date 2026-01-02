@@ -5,7 +5,7 @@ A full-stack web application for managing webinars and attendee registrations.
 ## 🔗 Live Demo
 
 - **Frontend:** [https://webinar-management-system-i2dinknd3-adi9325s-projects.vercel.app](https://webinar-management-system-i2dinknd3-adi9325s-projects.vercel.app)
-- **Backend API:** [Your Backend URL]
+- **Backend API:** [https://webinar-management-system.onrender.com](https://webinar-management-system.onrender.com)
 - **Documentation:** [Google Drive](https://drive.google.com/file/d/157nxrAdG5QQb1pq26NmqaIFtPRoP2a3_/view?usp=sharing)
 
 ## 🛠️ Tech Stack
